@@ -101,7 +101,7 @@ Se o MCP Codegraph estiver no Cursor:
 codegraph init
 ```
 
-Índice em `.codegraph/` (gitignored). Agentes devem consultar `codegraph_explore` antes de grep em série — ver [ai/CONTEXTO.md](ai/CONTEXTO.md).
+Índice em `.codegraph/` (gitignored). Quem for mexer no código consulta `codegraph_explore` antes de procurar em série.
 
 ## Armadilhas
 
