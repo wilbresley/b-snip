@@ -1,0 +1,11 @@
+/target/
+/dist/
+*.pdb
+*.exe
+!scripts/**
+.codegraph/
+.cursor/
+*.db-wal
+*.db-shm
+.DS_Store
+Thumbs.db
